@@ -3,4 +3,6 @@
 
 Command line arguments to run the program: python main.py /path/to/source/folder /path/to/replica/folder 20 sync_log.txt
                                                                                                           
-Args: main.py - File name; path to source folder; path to replica folder; 60 - seconds for periodic synchronization; sync_log.txt - log file name
+Args: 
+
+main.py - File name; path to source folder; path to replica folder; 60 - seconds for periodic synchronization; sync_log.txt - log file name
